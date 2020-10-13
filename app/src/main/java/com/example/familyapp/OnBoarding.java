@@ -13,6 +13,8 @@ import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+import com.example.familyapp.Adapters.SliderAdapter;
+
 public class OnBoarding extends AppCompatActivity {
 
     ViewPager viewPager;
